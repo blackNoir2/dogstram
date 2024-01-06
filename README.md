@@ -9,7 +9,7 @@ This project is part of a challenge where our task was to replicate an Instagram
 
 ## My Approach
 
-Before diving into the existing code, I wanted to test my skills by attempting to replicate the page without referring to the original codebase. My only goal was to eyeball the original created site. This version you see here is my attempt at creating a visually appealing and dog-centric frontend that represents the given site.
+Before diving into the existing code, I wanted to test my skills by attempting to replicate the page without referring to the original codebase e.g html, css, etc. My only goal was to eyeball the originally created site. This version you see here is my attempt at creating a visually appealing and dog-centric frontend that represents the given site.
 
 ## Key Features
 
@@ -23,9 +23,9 @@ Before diving into the existing code, I wanted to test my skills by attempting t
 This challenge was a great opportunity to showcase my HTML and CSS skills in recreating a popular frontend design. It allowed me to demonstrate my ability to structure HTML, apply CSS styling, and create an engaging user interface.
 
 
-**Note:** While this version is my independent attempt, I will now review the existing codebase to see how closely it aligns with my vision. By looking at the original codebase I aim to see how the original site was created and how the creator used flex-boxes, grids, classes, etc. This will allow me to understand the differences between the original and my version, allowing me to learn and improve my HTML, CSS skills..
+**Note:** While this version is my independent attempt without looking at the code base, I will now review the existing codebase to see how closely it aligns with my vision. By looking at the original codebase I aim to see how the original site was created and how the creator used flex-boxes, grids, classes, etc. This will allow me to understand the differences between the original and my version, allowing me to learn and improve my HTML, CSS skills..
 
 
 ## You can view my attempt here by following the github page
-
+ https://blacknoir2.github.io/dogstram/
 
