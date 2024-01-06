@@ -39,7 +39,10 @@ This project is part of a challenge where our task was to replicate an Instagram
 This challenge was a great opportunity to showcase my HTML and CSS skills in recreating a popular front-end design. It allowed me to demonstrate my ability to structure HTML, apply CSS styling, and create an engaging user interface.
 
 
-**Note:** While this version is my independent attempt without looking at the code base, I will now review the existing codebase to see how closely it aligns with my vision and complete whatever task that was required of me. By looking at the original codebase and completing whatever given task that was assigned to me I aim to see how the original site was created and how the creator used flex-boxes, grids, classes, etc. This will allow me to understand the differences between the original and my version, allowing me to learn and improve my HTML, CSS skills..
+**Note:**
+
+While this version represents my independent attempt without referencing or looking at the existing codebase even once, my next step involves a thorough review of the challenges assigned to me, which led to the creation of the original Dogstram website. By completing these assigned tasks, I aim to gain insights into the construction of the original codebase and the methods employed by the creator, including the use of flex-boxes, grids, classes, and other techniques. This process will not only enhance my understanding of how the original site was crafted but also provide an opportunity to learn new materials. The comparison between the original and my version will contribute to the improvement of my HTML and CSS skills.
+
 
 
 ## You can view my attempt here by following the github page
