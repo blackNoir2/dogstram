@@ -16,7 +16,7 @@ This project is part of a challenge where our task was to replicate an Instagram
   I eyeballed the site using an HTML browser, guessing spaces, padding, and image sizes based on the original appearance.
 
 - **Image Acquisition:**
-  I obtained images from the original site by clicking and downloading them for reference which was done via the broswer.
+  I obtained images from the original site by clicking and downloading them for reference which was done via the browser.
 
  - **Excluded Technology:**
   From inspection, I infer that the original site incorporates JavaScript. This inference is drawn from the dynamic behaviour observed, where the images of dogs change either upon page refresh or after a few seconds.
