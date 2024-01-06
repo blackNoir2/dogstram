@@ -25,7 +25,7 @@ This project is part of a challenge where our task was to replicate an Instagram
   Notably, I have deliberately excluded the use of JavaScript in my version. Consequently, the replicated site lacks the functionality observed in the original, such as automatic image changes.
 
 - **Result:**
-  This version represents my attempt to create a visually appealing and dog-centric frontend, focusing on the given site.
+  This version represents my attempt to create a visually appealing and dog-centric front-end, focusing on the given site.
 
 ## Key Features
 
@@ -36,10 +36,10 @@ This project is part of a challenge where our task was to replicate an Instagram
 
 ## Conclusion
 
-This challenge was a great opportunity to showcase my HTML and CSS skills in recreating a popular frontend design. It allowed me to demonstrate my ability to structure HTML, apply CSS styling, and create an engaging user interface.
+This challenge was a great opportunity to showcase my HTML and CSS skills in recreating a popular front-end design. It allowed me to demonstrate my ability to structure HTML, apply CSS styling, and create an engaging user interface.
 
 
-**Note:** While this version is my independent attempt without looking at the code base, I will now review the existing codebase to see how closely it aligns with my vision. By looking at the original codebase I aim to see how the original site was created and how the creator used flex-boxes, grids, classes, etc. This will allow me to understand the differences between the original and my version, allowing me to learn and improve my HTML, CSS skills..
+**Note:** While this version is my independent attempt without looking at the code base, I will now review the existing codebase to see how closely it aligns with my vision and complete whatever task that was required of me. By looking at the original codebase and completing whatever given task that was assigned to me I aim to see how the original site was created and how the creator used flex-boxes, grids, classes, etc. This will allow me to understand the differences between the original and my version, allowing me to learn and improve my HTML, CSS skills..
 
 
 ## You can view my attempt here by following the github page
