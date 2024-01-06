@@ -9,7 +9,17 @@ This project is part of a challenge where our task was to replicate an Instagram
 
 ## My Approach
 
-Before diving into the existing code, I wanted to test my skills by attempting to replicate the page without referring to the original codebase e.g html, css, etc. My only goal was to eyeball the originally created site. This version you see here is my attempt at creating a visually appealing and dog-centric frontend that represents the given site.
+- **Initial Observation:**
+  Before examining the existing code, I opted to replicate the page visually.
+
+- **Visual Estimation:**
+  I eyeballed the site using an HTML browser, guessing spaces, padding, and image sizes based on the original appearance.
+
+- **Image Acquisition:**
+  I obtained images from the original site by clicking and downloading them for reference which was done via the broswer.
+
+- **Result:**
+  This version represents my attempt to create a visually appealing and dog-centric frontend, focusing on the given site.
 
 ## Key Features
 
