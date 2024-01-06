@@ -18,6 +18,12 @@ This project is part of a challenge where our task was to replicate an Instagram
 - **Image Acquisition:**
   I obtained images from the original site by clicking and downloading them for reference which was done via the broswer.
 
+ - **Excluded Technology:**
+  From inspection, I infer that the original site incorporates JavaScript. This inference is drawn from the dynamic behaviour observed, where the images of dogs change either upon page refresh or after a few seconds.
+  
+- **JavaScript Omission:**
+  Notably, I have deliberately excluded the use of JavaScript in my version. Consequently, the replicated site lacks the functionality observed in the original, such as automatic image changes.
+
 - **Result:**
   This version represents my attempt to create a visually appealing and dog-centric frontend, focusing on the given site.
 
